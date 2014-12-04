@@ -1,0 +1,15 @@
+.introduction  .popover{
+  position: relative;
+  display: block;
+  float: left;
+  width: 260px;
+  margin: 20px;
+}
+.profile {
+  width: 50px;
+  margin: auto;
+}
+ .what-process img {
+   height: 500px;
+   width: 500px;
+ }
